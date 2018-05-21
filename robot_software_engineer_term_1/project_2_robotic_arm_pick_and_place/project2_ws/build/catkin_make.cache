@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/dell/udacity_projects/robot_software_engineer_term_1/project_2_robotic_arm_pick_and_place/project2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dell/udacity_projects/robot_software_engineer_term_1/project_2_robotic_arm_pick_and_place/project2_ws/install -G Unix Makefiles
