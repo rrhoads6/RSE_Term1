@@ -1,0 +1,8 @@
+prefix=/home/dell/GIT/RSE_Term1/robot_software_engineer_term_1/project_2_robotic_arm_pick_and_place/project2_ws/install
+
+Name: gazebo_grasp_plugin
+Description: Description of gazebo_grasp_plugin
+Version: 1.0.1
+Cflags: -I/home/dell/GIT/RSE_Term1/robot_software_engineer_term_1/project_2_robotic_arm_pick_and_place/project2_ws/install/include
+Libs: -L/home/dell/GIT/RSE_Term1/robot_software_engineer_term_1/project_2_robotic_arm_pick_and_place/project2_ws/install/lib -lgazebo_grasp_fix
+Requires: gazebo_ros geometry_msgs roscpp std_msgs
